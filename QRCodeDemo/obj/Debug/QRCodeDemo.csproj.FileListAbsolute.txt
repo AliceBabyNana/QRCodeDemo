@@ -1,0 +1,12 @@
+C:\Users\Administrator\Desktop\QRCodeDemo\QRCodeDemo\bin\Debug\QRCodeDemo.exe.config
+C:\Users\Administrator\Desktop\QRCodeDemo\QRCodeDemo\bin\Debug\QRCodeDemo.exe
+C:\Users\Administrator\Desktop\QRCodeDemo\QRCodeDemo\bin\Debug\QRCodeDemo.pdb
+C:\Users\Administrator\Desktop\QRCodeDemo\QRCodeDemo\bin\Debug\ThoughtWorks.QRCode.dll
+C:\Users\Administrator\Desktop\QRCodeDemo\QRCodeDemo\obj\Debug\QRCodeDemo.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\QRCodeDemo\QRCodeDemo\obj\Debug\QRCodeDemo.Properties.Resources.resources
+C:\Users\Administrator\Desktop\QRCodeDemo\QRCodeDemo\obj\Debug\QRCodeDemo.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\QRCodeDemo\QRCodeDemo\obj\Debug\QRCodeDemo.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\QRCodeDemo\QRCodeDemo\obj\Debug\QRCodeDemo.csproj.CopyComplete
+C:\Users\Administrator\Desktop\QRCodeDemo\QRCodeDemo\obj\Debug\QRCodeDemo.exe
+C:\Users\Administrator\Desktop\QRCodeDemo\QRCodeDemo\obj\Debug\QRCodeDemo.pdb
+C:\Users\Administrator\Desktop\QRCodeDemo\QRCodeDemo\obj\Debug\QRCodeDemo.Form1.resources
